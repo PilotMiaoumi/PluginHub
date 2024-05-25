@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <Id>3248252962</Id>
+  <FriendlyName>Cockpits Re-Re-Animated... yet once more</FriendlyName>
+  <Author>humanoid.mp4, Krynoc</Author>
+  <Tooltip>Reworked version of animated cockpits! THIS MOD REQUIRES YOU TO USE "Animation Engine"</Tooltip>
+  <Description>This mod adds animations and effects to the vanilla cockpits of Space Engineers. Now when you jump in the seat you will see the canopy or door close behind you, and open again with some effects when you exit. This is purely a cosmetic modification and does not make any alterations to gameplay.</Description>
+  <Hidden>false</Hidden>
+</PluginData>
