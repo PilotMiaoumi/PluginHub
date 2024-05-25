@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ModPlugin">
+  <Id>2880317963</Id>
+  <FriendlyName>Animation Engine</FriendlyName>
+  <Author>Math</Author>
+  <Tooltip>Reworked version of animated cockpits! THIS MOD REQUIRES YOU TO USE "Animation Engine"</Tooltip>
+  <Description>This a scripting language for SE that allows modders to create block animations with relative ease, no C# knowledge required. This is not a mod, its more of a framework for modders</Description>
+  <Hidden>false</Hidden>
+</PluginData>
